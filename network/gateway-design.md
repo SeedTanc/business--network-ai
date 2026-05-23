@@ -1,1 +1,0 @@
-Bizzi Offline-Gateway Design 
